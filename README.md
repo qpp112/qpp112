@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**qpp112/qpp112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Accelerated Sinkhorn Algorithm for Partial Optimal Transport.** Nghia Truong, **Qui Phu Pham**,
+Quang Nguyen, Dung Luong, Mai Tran. *ICASSP 2026.* [arXiv:2601.17196](https://arxiv.org/abs/2601.17196)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+
+Python · PyTorch · Hugging Face (Transformers, Diffusers) · NumPy / SciPy · scikit-learn · C++ ·
+pytest · GitHub Actions · SLURM · Docker · LaTeX
+
+## Contact
+
+[qppham@uci.edu](mailto:qppham@uci.edu)
+
